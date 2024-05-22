@@ -18,6 +18,8 @@ easyinsight provides:
 
 ## Credits
 
+This project was inspired by the [shencangsheng/easyinsight](https://github.com/shencangsheng/easyinsight) available in the GitHub project.
+
 This project was inspired by the [shencangsheng/View-Elasticsearch](https://github.com/shencangsheng/View-Elasticsearch) available in the GitHub project.
 
 ## License
