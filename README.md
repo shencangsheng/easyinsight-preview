@@ -11,7 +11,7 @@ easyinsight provides:
 - 基于 Web 的强大的交互式高级查询
 - 对数据的开箱即用，与 `easydb` 深度集成，小到一份 `csv`、 一个 `json`； 大到 `parquet` 文件都可以成为数据源
 - 各种精美的可视化效果可展示您的数据，从简单的条形图到集合运算可视化
-- 系统集成 `Jupyter` ，复杂且个性化的需求可通过代码解决，提供 `Python SDK` 直接调度 `DataSet` 并输出 `Echarts/HTML` 展示到 `Dashboard` 组件中
+- 系统集成 `Jupyter` ，提供 `Python SDK` 直接调度 `DataSet` 并输出 `Echarts/HTML` 展示到 `Dashboard` 组件中，来解决低代码无法解决的复杂且个性化的需求
 - 高度可扩展的安全角色和身份验证选项
 - 开箱即用，友好的二次开发架构，支持企业个性化开发
 - 开源版不阉割任何核心功能，企业版仅增加与审计相关的功能
